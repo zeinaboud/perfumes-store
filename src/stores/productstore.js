@@ -5,7 +5,7 @@ export const useProductsStore = defineStore('productStore', () => {
     const products = ref([]);
     const fetchProducts = async()=>{
       try{
-        const response = await axios.get('/products.json');
+        const response = await axios.get('/perfumes-store/products.json');
         products.value = response.data;
       }catch(error){
         console.error("Error fetching products:",error)

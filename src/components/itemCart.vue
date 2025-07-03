@@ -3,7 +3,7 @@
     <div class="flex items-center justify-between shadow-md rounded-lg md:p-4">
         <div class="flex items-center space-x-4">
             <div >
-                <img :src="item.image" alt="item.name" class="w-20 h-20">
+                <img :src="imageUrl" alt="item.name" class="w-20 h-20">
             </div>
             <div class="product-info">
                 <h2 class="font-bold ">{{ item.name }}</h2>
@@ -41,6 +41,8 @@ const props = defineProps({
     item: Object
 });
 
+// Safely resolve the full image path using Vite base
+const imageUrl = computed(() => import.meta.env.BASE_URL + props.item.image);
 
 
 </script>

@@ -2,9 +2,9 @@
 import { ref ,computed} from 'vue';
 
 const categories = [
-    { title: 'men', image: '/src/assets/img/categories/woman1.jfif' },
-    { title: 'women', image: '/src/assets/img/categories/men.jfif' },
-    { title: 'unisex', image: '/src/assets/img/categories/unisex.jfif' }
+    { title: 'men', image: 'assets/categories/woman1.jfif' },
+    { title: 'women', image: 'assets/categories/men.jfif' },
+    { title: 'unisex', image: 'assets/categories/unisex.jfif' }
 ];
 </script>
 <template>
