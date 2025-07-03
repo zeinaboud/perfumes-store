@@ -41,8 +41,6 @@ const props = defineProps({
     item: Object
 });
 
-// Safely resolve the full image path using Vite base
 const imageUrl = computed(() => import.meta.env.BASE_URL + props.item.image);
-
 
 </script>
