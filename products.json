@@ -75,5 +75,27 @@
     "description": "A romantic combination of blooming rose and rich oud.",
     "gender": "Men",
     "category": "Floral Oud"
+  },
+  {
+    "id": 8,
+    "name": "Tom Ford Lost Cherry",
+    "price": 350,
+    "discount": 22.99,
+    "rating": 90,
+    "image": "assets/perfume2.png",
+    "description": "Lost Cherry opens with a burst of ripe cherry and sweet liqueur, wrapped in the warmth of bitter almond.",
+    "gender": "Unisex",
+    "category": "Oriental Gourmand"
+  },
+  {
+    "id": 9,
+    "name": "Tom Ford Vanilla Sex",
+    "price": 275,
+    "discount": 22.99,
+    "rating": 90,
+    "image": "assets/perfume1.png",
+    "description": "Tom Ford Vanilla Sex is a deeply sensual and intimate interpretation of vanilla—far from being sugary or juvenile.",
+    "gender": "Unisex",
+    "category": "Amber Vanilla"
   }
 ]
