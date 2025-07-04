@@ -7,7 +7,7 @@
     "rating": 90,
     "image": "assets/perfume2.png",
     "description": "Lost Cherry opens with a burst of ripe cherry and sweet liqueur, wrapped in the warmth of bitter almond.",
-    "gender": "Unisex",
+    "gender": "unisex",
     "category": "Oriental Gourmand"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 90,
     "image": "assets/perfume1.png",
     "description": "Tom Ford Vanilla Sex is a deeply sensual and intimate interpretation of vanilla—far from being sugary or juvenile.",
-    "gender": "Unisex",
+    "gender": "unisex",
     "category": "Amber Vanilla"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 90,
     "image": "assets/perfume4.png",
     "description": "Black Orchid, a rare bloom born of the quest for the perfect flower. This luxe gift set features 50mL eau de parfum bottle and 10mL travel spray.",
-    "gender": "Men",
+    "gender": "men",
     "category": "Floral"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 90,
     "image": "assets/perfume5.png",
     "description": "Noir Extreme Parfum breathes a heightened concentration of spicy cardamom, spiked with the warmth of shimoga ginger and the rich sensuality of tonka bean and guaiacwood.",
-    "gender": "Men",
+    "gender": "men",
     "category": "Spicy Amber"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 90,
     "image": "assets/perfume7.png",
     "description": "Refreshing and cool like mint chocolate chip on a summer day.",
-    "gender": "Women",
+    "gender": "women",
     "category": "Gourmand"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 90,
     "image": "assets/perfume8.png",
     "description": "A deep blend of smoky tobacco and sweet vanilla.",
-    "gender": "Men",
+    "gender": "men",
     "category": "Woody Oriental"
   },
   {
@@ -73,7 +73,7 @@
     "rating": 90,
     "image": "assets/perfume9.png",
     "description": "A romantic combination of blooming rose and rich oud.",
-    "gender": "Men",
+    "gender": "men",
     "category": "Floral Oud"
   },
   {
@@ -95,7 +95,7 @@
     "rating": 90,
     "image": "assets/perfume1.png",
     "description": "Tom Ford Vanilla Sex is a deeply sensual and intimate interpretation of vanilla—far from being sugary or juvenile.",
-    "gender": "Unisex",
+    "gender": "unisex",
     "category": "Amber Vanilla"
   }
 ]
